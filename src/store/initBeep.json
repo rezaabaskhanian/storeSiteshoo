@@ -1,0 +1,57 @@
+[
+  {
+    "name": "cart_count",
+    "defaultValue": 0
+  },
+
+{"name": "note_count",
+  "defaultValue": 0},
+{
+  "name": "note",
+  "defaultValue": {}
+},
+  {
+    "name": "storeId",
+    "defaultValue": 0
+  },
+  {
+    "name": "address",
+    "defaultValue": []
+  },
+  {
+    "name": "products",
+    "defaultValue": []
+  },
+  {
+    "name": "categories",
+    "defaultValue": []
+  },
+  {
+    "name": "stores",
+    "defaultValue": []
+  },
+  {
+    "name": "cart",
+    "defaultValue": {}
+  },
+  {
+    "name": "searchData",
+    "defaultValue": {}
+  },
+  {
+    "name": "setting",
+    "defaultValue": {}
+  },
+  {
+    "name": "allSetting",
+    "defaultValue": {}
+  },
+  {
+    "name": "code",
+    "defaultValue": ""
+  },
+  {
+    "name": "offerValue",
+    "defaultValue": 0
+  }
+]

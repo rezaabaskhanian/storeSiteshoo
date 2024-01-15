@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assest/fonts/BYekan.ttf",
+      "sha1": "50919cf5c17afde12809e862cb1744c2ca2f24fd"
+    },
+    {
+      "path": "src/assest/fonts/Iranian_Sans.ttf",
+      "sha1": "57a067c2bd298f39439b5a69ac6dce3803812623"
+    },
+    {
+      "path": "src/assest/fonts/Yekan.ttf",
+      "sha1": "7b8c62b687994a57420990a8d4a846c1bb3ddd68"
+    }
+  ]
+}
